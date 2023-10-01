@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Social_Media_Web_APP/static/css/main.313ab519.css",
+    "main.js": "/Social_Media_Web_APP/static/js/main.9ca328ee.js",
+    "static/media/nature_image.jpg": "/Social_Media_Web_APP/static/media/nature_image.e4264728088710b615bf.jpg",
+    "static/media/user_profile.png": "/Social_Media_Web_APP/static/media/user_profile.a6143582309785dca610.png",
+    "index.html": "/Social_Media_Web_APP/index.html",
+    "main.313ab519.css.map": "/Social_Media_Web_APP/static/css/main.313ab519.css.map",
+    "main.9ca328ee.js.map": "/Social_Media_Web_APP/static/js/main.9ca328ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.313ab519.css",
+    "static/js/main.9ca328ee.js"
+  ]
+}
