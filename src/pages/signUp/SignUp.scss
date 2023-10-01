@@ -1,0 +1,73 @@
+.SignUp{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    //border: 1px solid salmon;
+    background-color: salmon;
+
+    .signUpBox{
+        padding: 40px;
+        min-width: 400px;
+        border: 1px solid black;
+        border-radius: 15px;
+        background-color: white;
+    }
+
+    label,input{
+        display: block;
+        width: 100%;
+        margin-block: 8px;
+    }
+
+    label{
+        font-weight: bold;
+    }
+
+    input{
+        padding: 4px 16px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+
+   
+    .submit{
+        background-color: #29b4ff;
+        color: white;
+        border: none;
+        margin-top: 16px;
+        border-radius: 5px;
+        padding: 10px;
+        font-weight: bold;
+       
+    
+    }
+
+    .btn {
+        background-color: white;
+        color: black;
+        border-radius: 10em;
+        font-size: 17px;
+        font-weight: 600;
+        padding: 15px;
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+        border: 1px solid black;
+        box-shadow: 0 0 0 0 black;
+      }
+      
+      .btn:hover {
+        transform: translateY(-4px) translateX(-2px);
+        box-shadow: 2px 5px 0 0 black;
+      };
+      
+    .btn:active {
+        transform: translateY(2px) translateX(1px);
+        box-shadow: 0 0 0 0 black;
+      };
+
+      .subHeading{
+        margin-top: 16px;
+      }
+
+}
